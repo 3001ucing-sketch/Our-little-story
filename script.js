@@ -3,9 +3,9 @@
  * Put your own photos in assets/photos and your audio file in assets/music.
  */
 const CONFIG = {
-  partnerOne: "YOUR NAME",
-  partnerTwo: "HIS NAME",
-  startDate: "2026-09-21", // Format: YYYY-MM-DD. Change to your anniversary date.
+  partnerOne: "Regula Hades Nyx Umbra de Loughrey Salvathore Belloir",
+  partnerTwo: "Illya Javincen Addams",
+  startDate: "2026-09-15", // Format: YYYY-MM-DD. Change to your anniversary date.
   letter: "If life is a race, I don't need a perfect track. I just want to keep finding my way back to you. Thank you for being my favorite part of ordinary days, for making distance feel smaller, and for reminding me that love can be both a fire and a safe place. I choose you, not because every lap is easy, but because every lap with you is worth it."
 };
 
